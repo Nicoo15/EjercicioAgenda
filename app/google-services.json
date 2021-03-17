@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "347308122091",
+    "firebase_url": "https://agenda-8b2dc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "agenda-8b2dc",
+    "storage_bucket": "agenda-8b2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347308122091:android:a9a6b51498bb5f9a72c3ae",
+        "android_client_info": {
+          "package_name": "com.example.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347308122091-755hjkstu93t12h2subcj9boplr97g30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Sx_es25oNd7_HnsUu9cyZvjeDSyla8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347308122091-755hjkstu93t12h2subcj9boplr97g30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347308122091:android:edc40c2ce7d219f672c3ae",
+        "android_client_info": {
+          "package_name": "com.example.ejercicioagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347308122091-755hjkstu93t12h2subcj9boplr97g30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Sx_es25oNd7_HnsUu9cyZvjeDSyla8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347308122091-755hjkstu93t12h2subcj9boplr97g30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
